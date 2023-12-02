@@ -331,6 +331,8 @@
 * ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
+* [Hidden Object Games](https://www.hiddenobjectgames.com/) - A collection of free Hideen Object Games.
+* [Bubble Shooter](https://www.bubbleshooter.net/) - Bubble Shooter Games
 * [Flash by Night](http://flashbynight.com/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots
